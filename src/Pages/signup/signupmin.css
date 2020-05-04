@@ -1,0 +1,18 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.formIt {
+  width: 600px;
+  margin: auto;
+  padding-bottom: 10px;
+}
+.navset {
+  padding-left: 500px;
+  padding-right: 500px;
+}
+.imageset {
+  padding-left: 200px;
+}
+.c-pointer {
+  cursor: pointer;
+}
