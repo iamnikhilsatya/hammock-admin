@@ -1,0 +1,15 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+.AgentIt{
+    margin: auto;
+    width: 1300px;
+    padding-top: 10px;
+}
+#aagentButton{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

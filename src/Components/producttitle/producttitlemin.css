@@ -1,0 +1,60 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.producttitle{
+    width: 1300px;
+    margin: auto;
+    padding-top: 10px;
+}
+.mainIt {
+    height: 730px;
+
+    overflow: hidden;
+    border: groove;
+    padding-top: 30px;
+    padding-left: 30px;
+  }
+  .mainIt {
+    overflow-y: auto;
+  }
+  #buttonIt {
+    border: ridge;
+    border-right: 500px;
+    
+  }
+  
+  .imageset{
+    text-align-last: center;
+}
+#itemsIt{
+    padding-left: 30px;
+}
+#textIt{
+  font-weight: 600;
+    
+}
+#resize{
+    text-align: left;
+}
+#textalign{
+ padding-bottom: 20px;
+ text-align: center;
+}
+.buttonalign{
+  text-align: center;
+  padding-bottom: 20px;
+}
+#primary{
+  width: 200px;
+  padding-right: 20px;
+}
+#borderIt{
+  border-style: groove;
+  border-left: 550px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.paddingIt{
+  padding-bottom: 20px;
+  padding-top:20px
+}

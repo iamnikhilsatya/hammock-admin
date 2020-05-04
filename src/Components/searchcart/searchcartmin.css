@@ -1,0 +1,23 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+.screenIt{
+    width: 1300px;
+    margin: auto;
+    padding-top: 10px;
+}
+
+table{
+    width: 100%;
+}
+th.tasklist{
+   width: 20%;
+}
+
+th.username,th.ads,th.status,th.expense{
+    width: 10%;
+}
+.form {
+    text-align: right;
+}
